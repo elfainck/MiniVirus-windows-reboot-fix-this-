@@ -1,3 +1,3 @@
 while true{
-  print("RunAway!")
+  console.log("RunAway!")
 }
